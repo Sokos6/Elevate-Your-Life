@@ -16,10 +16,10 @@ class Login extends React.Component {
                   © 2018{" "}
                   <a
                     className="font-weight-bold ml-1"
-                    href="https://www.creative-tim.com?ref=adr-auth-footer"
+                    href="http://elevatetickets.com/"
                     target="_blank"
                   >
-                    Creative Tim
+                    Elevate Tickets
                   </a>
                 </div>
               </Col>
@@ -27,15 +27,15 @@ class Login extends React.Component {
                 <Nav className="nav-footer justify-content-center justify-content-xl-end">
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com?ref=adr-auth-footer"
+                      href="http://elevatetickets.com/"
                       target="_blank"
                     >
-                      Creative Tim
+                      Elevate Tickets
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adr-auth-footer"
+                      href="http://elevatetickets.com/"
                       target="_blank"
                     >
                       About Us
@@ -43,7 +43,7 @@ class Login extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="http://blog.creative-tim.com?ref=adr-auth-footer"
+                      href="http://elevatetickets.com/"
                       target="_blank"
                     >
                       Blog
@@ -51,10 +51,10 @@ class Login extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md?ref=adr-auth-footer"
+                      href="https://support.festivalticketing.com/hc/en-us"
                       target="_blank"
                     >
-                      MIT License
+                      Support
                     </NavLink>
                   </NavItem>
                 </Nav>
